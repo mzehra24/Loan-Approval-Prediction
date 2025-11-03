@@ -4,7 +4,7 @@ Predict loan approval status (approved/rejected) based on applicants' financial 
 
 ## Features
 - Predicts loan approval decisions
-- Uses models like Logistic Regression and Random Forest
+- Uses models like SVM and Random Forest
 - Outputs classification results for applicants
 
 ## Requirements
