@@ -1,6 +1,6 @@
 # Loan Approval Prediction
 
-Predict loan approval status (approved/rejected) based on applicants' financial and personal details using supervised machine learning models.
+Predict loan approval status (approved/rejected) based on applicant's financial and personal details using supervised machine learning models.
 
 ## Features
 - Predicts loan approval decisions
